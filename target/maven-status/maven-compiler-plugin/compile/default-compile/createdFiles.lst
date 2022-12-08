@@ -1,0 +1,10 @@
+com/course/app/UserChoice.class
+com/course/app/ArtistInfoServlet.class
+com/course/app/ResultPrinter.class
+com/course/app/ResultPrinter$1.class
+com/course/app/Artists.class
+com/course/app/VotesStorage.class
+com/course/app/VoiceHandlerServlet.class
+com/course/app/Genres.class
+com/course/app/ResultPrinter$2.class
+com/course/app/GenreInfoServlet.class
