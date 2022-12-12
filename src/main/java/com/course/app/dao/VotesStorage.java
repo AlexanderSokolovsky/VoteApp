@@ -1,12 +1,13 @@
 package com.course.app.dao;
 
+import com.course.app.dto.VoteDTO;
 import com.course.app.servies.UserChoice;
 
 import java.util.*;
 
 public class VotesStorage {
 	private static VotesStorage instance;
-	private List<Vote> voteList = new ;
+	private List<VoteDTO> voteList = new ArrayList<VoteDTO>();
 
 	private VotesStorage(){
 
